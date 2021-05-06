@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../Minecraft-in-Python/.idea/Minecraft-in-Python.iml" filepath="$PROJECT_DIR$/../Minecraft-in-Python/.idea/Minecraft-in-Python.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonCraft.iml" filepath="$PROJECT_DIR$/.idea/PythonCraft.iml" />
     </modules>
   </component>
 </project>
